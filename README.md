@@ -7,7 +7,7 @@
   
 - 🤝 I’m looking for an internship (In Front-end Development)
   
-- 👨‍💻 You can see my projects at <a href="https://kevinboere.nl/portfolio"> my portfolio </a>
+- 👨‍💻 You can see my projects at <a href="https://kevinboere.nl/projecten/"> my portfolio </a>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
